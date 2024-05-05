@@ -1,6 +1,5 @@
 <br>
 <br>
-<br>
 
 <h1 align="center">Hi 👋, I'm Kanad Kapil</h1>
 <h3 align="center">A Frontend Developer from India</h3>
