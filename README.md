@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Kanad Kapil</h1>
-<h3 align="center">A Frontend Developer from India</h3>
+<h3 align="center">A Frontend Developer from India</h3> <hr>
 
 # 💫 About Me:
 <br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **JAVA, DSA**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com**
