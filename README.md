@@ -4,14 +4,19 @@
 <h1 align="center">Hi 👋, I'm Kanad Kapil</h1>
 <h3 align="center">A Frontend Developer from India</h3> <hr>
 
-# 💫 About Me:
+# 💫 About Me..........!
 <br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **JAVA, DSA**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com**
 
+<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kanadkapil/) <br>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/@anush_tup) <br>
 Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
+
+<br>
+<br>
 
 # 💻 Tech Stack:
 
@@ -58,12 +63,17 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 <br>
+<br>
+
 
 ## Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 <br><br><br>
+
+<br>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
