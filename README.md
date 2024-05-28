@@ -4,7 +4,11 @@
 <h3 align="center">A Frontend Developer from India</h3> <hr>
 
 # 💫 About Me..........!
-<br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **JAVA, DSA**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com**
+<br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **JAVA, DSA**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com** 
+<br>
+<br>
+Visit my MorseCode App..... **https://kanadkapil.github.io/MorseCode-WebApp/**
+
 
 <br>
 <br>
@@ -13,7 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanadkapil/) <br>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anush_tup) <br>
 Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
-Visit my MorseCode App..... **https://kanadkapil.github.io/MorseCode-WebApp/**
 
 <br>
 <br>
