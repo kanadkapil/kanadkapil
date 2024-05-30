@@ -7,7 +7,7 @@
 <br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **JAVA, DSA**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com** 
 <br>
 <br>
-<--Visit my MorseCode App..... **https://kanadkapil.github.io/MorseCode-WebApp/** -->
+//<--Visit my MorseCode App..... **https://kanadkapil.github.io/MorseCode-WebApp/** -->
 
 
 <br>
