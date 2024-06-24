@@ -22,7 +22,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
   <a href="https://discord.com/users/anushtup" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" style="margin-right: 10px; transition: transform 0.2s; display: block;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" style="margin-right: 10px;" />
   </a>
   <a href="https://www.youtube.com/@anushtup8735" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" style="margin-right: 10px;" />
@@ -37,6 +37,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" style="margin-right: 10px;" />
   </a>
 </div>
+
 <br>
 <br>
 
