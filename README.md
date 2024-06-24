@@ -140,17 +140,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 <br><br><br>
 
-<br>
-<br>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/q48ckqd2od7kezx93ua2u4g5n">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=q48ckqd2od7kezx93ua2u4g5n&count=5" alt="Spotify recently played" style="margin-bottom: 10px;" />
-  </a>
-</div>
-
-<br>
-<br>
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
