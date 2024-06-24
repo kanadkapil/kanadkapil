@@ -47,7 +47,11 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" style="margin-right: 10px;" />
+    <img width="20" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" style="margin-right: 20px;" />
+    <img width="20" />
+
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" style="margin-right: 10px;" />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="60" alt="css3 logo" style="margin-right: 10px;" />
