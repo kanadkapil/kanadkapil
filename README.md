@@ -17,22 +17,22 @@
 ## 🌐 Socials :
 Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 <div align="left">
-  <a href="https://www.linkedin.com/in/kanadkapil/" target="_blank">
+  <a href="https://www.linkedin.com/in/kanadkapil/" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
-  <a href="https://discord.com/users/anushtup" target="_blank">
+  <a href="https://discord.com/users/anushtup" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.youtube.com/@anushtup8735" target="_blank">
+  <a href="https://www.youtube.com/@anushtup8735" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" style="margin-right: 10px;" />
   </a>
-  <a href="mailto:kanadkapil@gmail.com" target="_blank">
+  <a href="mailto:kanadkapil@gmail.com" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" style="margin-right: 10px;" />
   </a>
-  <a href="#" target="_blank">
+  <a href="#" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" style="margin-right: 10px;" />
   </a>
-  <a href="#" target="_blank">
+  <a href="#" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" style="margin-right: 10px;" />
   </a>
 </div>
@@ -44,6 +44,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 # 💻 Tech Stack :
 
 ## Front End :
+<div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" style="margin-right: 10px;" />
@@ -54,10 +55,12 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo" style="margin-right: 10px;" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" style="margin-right: 10px;" />
+</div>
 
 <br>
 
 ## Backend :
+<div align="left">
 
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo" style="margin-right: 10px;" />
   <img width="20" />
@@ -70,30 +73,37 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo" style="margin-right: 10px;" />
   <img width="20" />
 <!--  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) -->
+</div>
 
 <br>
 
 ## Data Bases :
+<div align="left">
 
 
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" style="margin-right: 10px;" />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo" style="margin-right: 10px;" />
   <img width="20" />
+</div>
 
 <br>
 
 ## Programming Languages :
+<div align="left">
+
   <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo" style="margin-right: 10px;" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" style="margin-right: 10px;" />
   <img width="20" />
 <!--  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  -->
 <!--  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+</div>
 
 <br>
 
 ## Framework and Others :
+<div align="left">
 
   <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo" style="margin-right: 10px;" />
   <img width="20" />
@@ -106,6 +116,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 <!-- ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)  -->
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  -->
+</div>
 
 
 <br>
@@ -113,6 +124,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 
 ## Design :
+<div align="left">
 
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" style="margin-right: 10px;" />
@@ -120,6 +132,8 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" style="margin-right: 10px;" />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=sketchup" height="60" alt="sketch logo" style="margin-right: 10px;" />
+  </div>
+
 <br><br><br>
 
 <br>
