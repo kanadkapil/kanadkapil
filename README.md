@@ -143,7 +143,10 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/><br><br/><br>
+
+<img src="https://github.com/kanadkapil/kanadkapil/raw/output/snake.svg" alt="Snake animation" style="margin-bottom: 10px;" />
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=darcula&hide_border=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
