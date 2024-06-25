@@ -23,7 +23,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
   <a href="https://discord.com/users/anushtup" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.youtube.com/@anushtup8735" target="">
+  <a href="https://www.youtube.com/@anush_tup" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" style="margin-right: 10px;" />
   </a>
   <a href="mailto:kanadkapil@gmail.com" target="">
