@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kanad Kapil</h1>
 <h3 align="center">A Frontend Developer from India</h3> <hr>
 
-# 💫 About Me..........!
+# ✌️ About Me..........!
 <br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **C++, DSA**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com** 
 <br>
 <br>
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-## 🌐 Socials :
+## 🌐🫂 Socials :
 Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 <div align="left">
   <a href="https://www.linkedin.com/in/kanadkapil/" target="">
@@ -63,7 +63,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 <br>
 
-## Backend :
+## 🐸 Backend :
 <div align="left">
 
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo" style="margin-right: 10px;" />
@@ -81,7 +81,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 <br>
 
-## Data Bases :
+## 📚 Data Bases :
 <div align="left">
 
 
@@ -93,7 +93,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 <br>
 
-## Programming Languages :
+## 🏹 Programming Languages :
 <div align="left">
 
   <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo" style="margin-right: 10px;" />
@@ -106,7 +106,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 
 <br>
 
-## Framework and Others :
+## 🪟🖼️ Framework and Others :
 <div align="left">
 
   <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo" style="margin-right: 10px;" />
@@ -127,7 +127,7 @@ Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   |
 <br>
 
 
-## Design :
+## 🎨🖌️ Design :
 <div align="left">
 
   <img width="20" />
