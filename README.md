@@ -152,20 +152,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=blue-green&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<br/><br><br/><br>
+<br/><br>
 
-<!--<img src="https://github.com/kanadkapil/kanadkapil/raw/output/snake.svg" alt="Snake animation" style="margin-bottom: 10px;" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=darcula&hide_border=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 
-<br><br>
+
 ---
 **Profile Views**
 ---
 [![](https://visitcount.itsvg.in/api?id=kanadkapil&icon=6&color=3)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
