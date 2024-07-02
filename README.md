@@ -16,8 +16,10 @@
 <br>
 <br>
 
-## 🌐🫂 Socials : <br> <br>
+## 🌐🫂 Socials :
+<br> <br>
 ## Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   
+<br> <br>
 <div align="left">
   <a href="https://www.linkedin.com/in/kanadkapil/" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin-right: 10px;" />
@@ -142,10 +144,19 @@
 
 <br><br><br>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<br><br><br>
 
 
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/><br><br/><br>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br/><br><br/><br>
 
 <!--<img src="https://github.com/kanadkapil/kanadkapil/raw/output/snake.svg" alt="Snake animation" style="margin-bottom: 10px;" />-->
 
@@ -155,6 +166,6 @@
 <br><br>
 ---
 **Profile Views**
-[![](https://visitcount.itsvg.in/api?id=kanadkapil&icon=1&color=1)](https://visitcount.itsvg.in)
-
+---
+[![](https://visitcount.itsvg.in/api?id=kanadkapil&icon=6&color=3)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
