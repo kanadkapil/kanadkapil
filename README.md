@@ -4,7 +4,7 @@
 <h3 align="center">A Frontend Developer from India</h3> <hr>
 
 # ✌️ About Me..........!
-<br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **C++, DSA**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com** 
+<br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **C++, DSA, Js, React**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com** 
 <br>
 <br>
 <h3>** Visit my MorseCode App.......... https://kanadkapil.github.io/MorseCode-WebApp</h3>
