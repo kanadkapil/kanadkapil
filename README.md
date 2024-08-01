@@ -13,7 +13,7 @@
 
 
 ## 🌐🫂 Socials :
-<br> <br>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/kanadkapil/" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin-right: 10px;" />
@@ -35,7 +35,7 @@
   </a>
 </div>
 
-## Portfolio : [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   
+## 👨‍⚕️: [kanadkapil.github](https://kanadkapil.github.io/Folio-live)   
 
 
 <br>
