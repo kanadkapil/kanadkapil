@@ -74,10 +74,10 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo" style="margin-right: 10px;" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" style="margin-right: 10px;" />
+ <!-- <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" style="margin-right: 10px;" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" style="margin-right: 10px;" />
-  <img width="20" />
+  <img width="20" /> -->
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo" style="margin-right: 10px;" />
   <img width="20" />
 <!--  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) -->
