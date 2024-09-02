@@ -1,7 +1,12 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Kanad Kapil</h1> 
-<h3 align="center">A Frontend Developer from India</h3> <hr>
+<h3 align="center">From India</h3> <hr>
+<!-- Typing Text Banner -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20Kanad%20Kapil!;Computer%20Science%20Student;Web%20Developer;C++%20Enthusiast&font=Silkscreen&center=true&width=440&height=50&color=4169E1&vCenter=true&pause=420&size=30" alt="Typing Text Banner" />
+</p>
+
 
 # ✌️ About Me..........!
 <br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **C++, DSA, Js, React**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com** 
