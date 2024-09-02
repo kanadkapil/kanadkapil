@@ -7,6 +7,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer&font=Silkscreen&center=true&width=740&height=50&color=ffffff&vCenter=true&pause=400&size=40" alt="Kanad Kapil" />
 </p>
 
+<hr>
+
+<!-- Background Image 
+![Background Image](https://example.com/your-image.jpg)
+-->
+
 
 # ✌️ About Me..........!
 <br>- 🔭 I’m currently working on **College Project(s)**<br><br>- 🌱 I’m currently learning **C++, DSA, Js, React**<br><br>- 📫 How to reach me **kanad.kapil@gmail.com** 
