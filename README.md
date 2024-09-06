@@ -4,7 +4,7 @@
 <h3 align="center">From India</h3> <hr>
 <!-- Typing Text Banner -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer&font=Silkscreen&center=true&width=800&height=57&color=9be7eb&vCenter=true&pause=300&size=44" alt="Kanad Kapil" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Kanad Kapil" />
 </p>
 
 <hr>
