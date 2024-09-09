@@ -169,12 +169,35 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=blue-green&hide_border=false" alt="GitHub Streak" /><br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" /> <br/><br/>
-<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&username=kanadkapil&image_size=auto" alt="Repository Performance Stats - Last 28 days" />
+<!--<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&username=kanadkapil&image_size=auto" alt="Repository Performance Stats - Last 28 days" /> ->>
 
 
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&card_width=350) -->
+<!--// snake -->
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+<p align="center"> 
+  <!-- This paragraph can be removed or customized if needed -->
+</p>
+
+<div align="center">Visitor count</div>
+<div align="center">
+    <!-- Updated visitor count image with username kanadkapil -->
+    <img src="https://profile-counter.glitch.me/kanadkapil/count.svg">
+</div> 
+
+<p></p>
+<hr>
+
 
 
 </center>
