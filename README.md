@@ -169,7 +169,12 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-<br><br><br>
+<br><br>
+
+<!--🖼️RICK-->
+</p><p align="center">
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+    <br><br><br>
 
 
 
