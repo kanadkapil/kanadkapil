@@ -168,26 +168,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=blue-green&hide_border=false" alt="GitHub Streak" /><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" /> <br/><br/>
+<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&username=kanadkapil&image_size=auto" alt="Repository Performance Stats - Last 28 days" />
 
-<table>
-    <thead>
-        <tr>
-            <th>Repository Performance Stats - Last 28 days</th>
-            <th>Active Contributors - Last 28 days</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto" alt="Repository Performance Stats - Last 28 days" />
-            </td>
-            <td>
-                <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto" alt="Active Contributors - Last 28 days" />
-            </td>
-        </tr>
-    </tbody>
-</table>
 
 </div>
 
