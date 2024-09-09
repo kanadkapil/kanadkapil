@@ -163,12 +163,12 @@
 
 
 
-# 📊 GitHub Stats:
-<div align="center">
+# 📊 GitHub Stats
 
-    ![](https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=blue-green&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanadkapil&theme=blue-green&hide_border=false" alt="GitHub Streak" /><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&card_width=350) -->
