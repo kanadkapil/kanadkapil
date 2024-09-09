@@ -5,6 +5,9 @@
 <!-- Typing Text Banner -->
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Kanad Kapil" />
+    <br> <br>
+      <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+
 </p>
 
 <hr>
@@ -175,7 +178,7 @@
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanadkapil&card_width=350) -->
-<!--// snake -->
+<!--// snake 
 
 <div align="center">
     <picture>
@@ -186,16 +189,18 @@
 </div>
 
 <p align="center"> 
-  <!-- This paragraph can be removed or customized if needed -->
+  <!-- This paragraph can be removed or customized if needed 
 </p>
 
 <div align="center">Visitor count</div>
 <div align="center">
-    <!-- Updated visitor count image with username kanadkapil -->
+    <!-- Updated visitor count image with username kanadkapil 
     <img src="https://profile-counter.glitch.me/kanadkapil/count.svg">
 </div> 
 
 <p></p>
+-->
+
 <hr>
 
 
