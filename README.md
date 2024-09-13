@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Kanad Kapil" />
   <br><br>
-<!--   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"> -->
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
   
 </p>
 <hr>
