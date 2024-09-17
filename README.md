@@ -88,10 +88,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<!-- Fun GIF Section -->
+<!-- Fun GIF Section 
 <p align="center">
   <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
-</p>
+</p>-->
 
 <!-- GitHub Stats Section -->
 # 📊 GitHub Stats
