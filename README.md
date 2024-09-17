@@ -35,6 +35,7 @@
 </div>
 
 ## 👨‍⚕️ [Portfolio](https://kanadkapil.github.io/Folio-live)
+## 👨‍⚕️ [Portfolio (NEW⭐)](https://kanadkapil.github.io/Personal-Portfolio-Live/)
 
 <!-- Tech Stack Section -->
 # 💻 Tech Stack:
