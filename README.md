@@ -43,45 +43,45 @@
 
 <h3>Front End:</h3>
 <div align="left" style="margin-bottom: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" style="margin-right: 15px;" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="60" alt="css3 logo" style="margin-right: 15px;" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" style="margin-right: 25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" style="margin-right: 25px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" style="margin-right: 25px;" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="60" alt="css3 logo" style="margin-right: 25px;" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo" style="margin-right: 25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" style="margin-right: 25px;" />
 </div>
 
 <h3>Backend:</h3>
 <div align="left" style="margin-bottom: 40px;">
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo" style="margin-right: 15px;" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo" style="margin-right: 15px;" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo" style="margin-right: 25px;" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo" style="margin-right: 25px;" />
 </div>
 
 <h3>Databases:</h3>
 <div align="left" style="margin-bottom: 40px;">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" style="margin-right: 15px;" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo" style="margin-right: 15px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" style="margin-right: 25px;" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo" style="margin-right: 25px;" />
 </div>
 
 <h3>Programming Languages:</h3>
 <div align="left" style="margin-bottom: 40px;">
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" style="margin-right: 15px;" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo" style="margin-right: 25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" style="margin-right: 25px;" />
 </div>
 
 <h3>Framework and Others:</h3>
 <div align="left" style="margin-bottom: 40px;">
-  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo" style="margin-right: 15px;" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo" style="margin-right: 25px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" style="margin-right: 25px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" style="margin-right: 25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo" style="margin-right: 25px;" />
 </div>
 
 <h3>Design:</h3>
 <div align="left" style="margin-bottom: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="60" alt="sketch logo" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" style="margin-right: 25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" style="margin-right: 25px;" />
+  <img src="https://skillicons.dev/icons?i=sketchup" height="60" alt="sketch logo" style="margin-right: 25px;" />
 </div>
 
 <!-- Random Dev Quote -->
