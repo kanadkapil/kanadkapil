@@ -1,5 +1,5 @@
 <!-- Centered Header Section -->
-<h1 align="center" style="margin-bottom: 20px;">Hi 👋, I'm Kanad Kapil</h1> 
+<h1 align="center" style="margin-bottom: 40px;">Hi 👋, I'm Kanad Kapil</h1> 
 <h3 align="center" style="margin-bottom: 40px;">From India</h3>
 <hr style="margin-bottom: 40px;">
 
@@ -42,7 +42,7 @@
 <h1>💻 Tech Stack:</h1>
 
 <h3>Front End:</h3>
-<div align="left" style="margin-bottom: 30px;">
+<div align="left" style="margin-bottom: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" style="margin-right: 15px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" style="margin-right: 15px;" />
@@ -52,25 +52,25 @@
 </div>
 
 <h3>Backend:</h3>
-<div align="left" style="margin-bottom: 30px;">
+<div align="left" style="margin-bottom: 40px;">
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo" style="margin-right: 15px;" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo" style="margin-right: 15px;" />
 </div>
 
 <h3>Databases:</h3>
-<div align="left" style="margin-bottom: 30px;">
+<div align="left" style="margin-bottom: 40px;">
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" style="margin-right: 15px;" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo" style="margin-right: 15px;" />
 </div>
 
 <h3>Programming Languages:</h3>
-<div align="left" style="margin-bottom: 30px;">
+<div align="left" style="margin-bottom: 40px;">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" style="margin-right: 15px;" />
 </div>
 
 <h3>Framework and Others:</h3>
-<div align="left" style="margin-bottom: 30px;">
+<div align="left" style="margin-bottom: 40px;">
   <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo" style="margin-right: 15px;" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" style="margin-right: 15px;" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" style="margin-right: 15px;" />
