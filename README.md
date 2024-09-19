@@ -1,6 +1,6 @@
 <!-- Centered Header Section -->
-<h1 align="center" style="margin-bottom: 40px;">Hi 👋, I'm Kanad Kapil</h1> 
-<h3 align="center" style="margin-bottom: 40px;">From India</h3><br>
+<h1 align="center" style="margin-bottom: 40px;">Hi 👋, I'm Kanad Kapil</h1> <br>
+<h3 align="center" style="margin-bottom: 40px;">From India</h3>
 <hr style="margin-bottom: 40px;"><br>
 
 <!-- Typing Text Banner -->
