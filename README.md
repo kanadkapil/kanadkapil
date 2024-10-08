@@ -3,7 +3,7 @@
 <h3 align="center" style="margin-bottom: 40px;">From India</h3>
 <hr style="margin-bottom: 40px;"><br>
 
-<!-- Typing Text Banner -->
+<!-- Typing Text Banner 
 <p align="center" style="margin-bottom: 40px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Kanad Kapil" />
   <br><br>
