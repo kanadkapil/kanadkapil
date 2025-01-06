@@ -23,12 +23,19 @@
 
 <h3>Visit my Projects:</h3>
 <ul style="margin-left: 30px; margin-bottom: 40px;">
-  <li>MorseCode App: <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank">kanadkapil.github.io/MorseCode-WebApp</a></li>
-  <li>Terminal App (In Progress): <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank">kanadkapil.github.io/Portfolio_terminal/</a></li>
+  
 <li>
-  Compiled Works (Live): 
-  <h3>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank" rel="noopener noreferrer">Web works</a></h3>
+  <h3>😎 MorseCode App: <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer">kanadkapil.github.io/MorseCode-WebApp</a></h3>
 </li>
+
+<li>
+  <h3>💾 Terminal App (In Progress): <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer">kanadkapil.github.io/Portfolio_terminal</a></h3>
+</li>
+
+<li>
+  <h3>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank" rel="noopener noreferrer">Compiled Works (Live)</a></h3>
+</li>
+
 <!--   <li>Compiled Works (Live): <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank">kanadkapil.github.io/Web-Works-Live</a></li> -->
 </ul>
 
