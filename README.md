@@ -25,11 +25,11 @@
 <ul style="margin-left: 30px; margin-bottom: 40px;">
   
 <li>
-  <h3>😎 MorseCode App: <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer">kanadkapil.github.io/MorseCode-WebApp</a></h3>
+  <h3>😎 <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer">MorseCode App</a></h3>
 </li>
 
 <li>
-  <h3>💾 Terminal App (In Progress): <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer">kanadkapil.github.io/Portfolio_terminal</a></h3>
+  <h3>💾  <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer">Terminal App (In Progress)</a></h3>
 </li>
 
 <li>
