@@ -41,6 +41,7 @@
 
 
 <h1>💻 Tech Stack:</h1>
+<h1></h1>
 
 <h3>Front End:</h3>
 <div align="left" style="margin-bottom: 40px; display: flex; flex-wrap: wrap; gap: 20px;">
