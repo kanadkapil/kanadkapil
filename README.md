@@ -1,6 +1,4 @@
 <!-- Centered Header Section -->
-<br>
-
 <h1 align="center" style="margin-bottom: 30px; font-size: 3rem; color: #1e40af;">Hi 👋, I'm <span style="color: #52cbd1;">Kanad Kapil</span></h1>
 <h3 align="center" style="margin-bottom: 40px; font-size: 1.5rem; color: #1e40af;">From India</h3>
 <hr style="margin-bottom: 40px; border: 2px solid #52cbd1; width: 80%;">
