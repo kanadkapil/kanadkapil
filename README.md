@@ -25,9 +25,7 @@
   <li><h3>😎 <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">MorseCode App</a></h3></li>
   <li><h3>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Terminal App (In Progress)</a></h3></li>
   <li><h3>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Compiled Works (Live)</a></h3></li>
-</ul>
-  <li><h3>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Terminal App (In Progress)</a></h3></li>
-  <li><h3>⚗️ <a href="https://github.com/kanadkapil/ReactProjects" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">React Projects/a></h3></li>
+  <li><h3>⚗️ <a href="https://github.com/kanadkapil/ReactProjects" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">React Projects </a></h3></li>
 </ul>
 
 <!-- Socials Section -->
