@@ -7,8 +7,7 @@
 <p align="center" style="margin-bottom: 5px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer;Data%20Scientist&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Kanad Kapil" />
 </p>
-
-  <br><br><br>
+<br>
   
 <p align="center" style="margin-bottom: 10px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Python;React;C++;SQL&font=Silkscreen&center=true&width=800&height=57&color=69ff91&vCenter=true&pause=300&size=36" alt="Kanad Kapil" />
