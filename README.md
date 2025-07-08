@@ -18,33 +18,32 @@
 
 <!-- About Me Section -->
 <h1 style="font-size: 2.5rem; color: #1e40af;">✌️ About Me</h1>
-<ul style="margin-left: 40px; font-size: 1.2rem; color: #4b5563;">
+<ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
   <li>🔭 I’m currently working on <strong>College Project(s)</strong></li>
   <li>🌱 I’m currently learning <strong>C++, DSA, JS, React</strong></li>
-  <li>📫 How to reach me: <a href="mailto:kanad.kapil@gmail.com" style="color: #52cbd1;"><strong>kanad.kapil@gmail.com</strong></a></li>
+  <li>📫 How to reach me: <strong><a href="mailto:kanad.kapil@gmail.com" style="color: #52cbd1;">kanad.kapil@gmail.com</a></strong></li>
 </ul>
 
-<h3 style="color: #1e40af;">🚀 Visit my Projects:</h3>
-<ul style="margin-left: 40px; font-size: 1.2rem; color: #4b5563;">
-  <li>😎 <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" style="color: #52cbd1;">MorseCode App</a></li>
-  <li>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" style="color: #52cbd1;">Terminal App (In Progress)</a></li>
-  <li>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank" style="color: #52cbd1;">Compiled Works (Live)</a></li>
-  <li>⚗️ <a href="https://github.com/kanadkapil/ReactProjects" target="_blank" style="color: #52cbd1;">React Projects</a></li>
+<h3 style="color: #1e40af;">Visit my Projects:</h3>
+<ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
+  <li><h3>😎 <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">MorseCode App</a></h3></li>
+  <li><h3>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Terminal App (In Progress)</a></h3></li>
+  <li><h3>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Compiled Works (Live)</a></h3></li>
+  <li><h3>⚗️ <a href="https://github.com/kanadkapil/ReactProjects" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">React Projects </a></h3></li>
 </ul>
 
 <!-- Socials Section -->
 <h2 style="color: #1e40af;">🌐🫂 Socials:</h2>
-<div align="center" style="margin-bottom: 40px;">
-  <a href="https://www.linkedin.com/in/kanadkapil/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/anushtup"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /></a>
-  <a href="https://www.youtube.com/@anush_tup"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" /></a>
-  <a href="mailto:kanadkapil@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
+<div align="left" style="margin-bottom: 40px;">
+  <a href="https://www.linkedin.com/in/kanadkapil/" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin-right: 15px; border-radius: 8px;" /></a>
+  <a href="https://discord.com/users/anushtup" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" style="margin-right: 15px; border-radius: 8px;" /></a>
+  <a href="https://www.youtube.com/@anush_tup" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" style="margin-right: 15px; border-radius: 8px;" /></a>
+  <a href="mailto:kanadkapil@gmail.com" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" style="margin-right: 15px; border-radius: 8px;" /></a>
 </div>
 
-<div align="center">
-  <h3 style="color: #1e40af;">👨‍💻 <a href="https://kanadkapil.github.io/Folio-live" style="color: #52cbd1;">Portfolio</a></h3>
-  <h3 style="color: #1e40af;">🌟 <a href="https://kanadkapil.github.io/Personal-Portfolio-Live/" style="color: #52cbd1;">Portfolio (NEW)</a></h3>
-</div>
+<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.github.io/Folio-live" style="color: #52cbd1;">Portfolio</a></h3>
+<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.github.io/Personal-Portfolio-Live/" style="color: #52cbd1;">Portfolio (NEW⭐)</a></h3>
+
 
 <!-- Tech Stack -->
 <h1 style="font-size: 2.5rem; color: #1e40af;">💻 Tech Stack</h1>
