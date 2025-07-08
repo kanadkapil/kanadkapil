@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;Web%20Developer;Data%20Scientist&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Kanad Kapil" />
 </p>
   <br><br><br>
+<p align="center" style="margin-top: 40px; font-family: Silkscreen; font-size: 24px; color: #52cbd1;">
+  Python &nbsp;|&nbsp; React &nbsp;|&nbsp; C++ &nbsp;|&nbsp; SQL
+</p>
+
+ 
+  <br><br><br>
   <img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" style="border-radius: 10px;">
   <br>
 </p>
