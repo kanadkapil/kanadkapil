@@ -30,6 +30,9 @@
   <li><h3>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Terminal App (In Progress)</a></h3></li>
   <li><h3>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Compiled Works (Live)</a></h3></li>
   <li><h3>⚗️ <a href="https://github.com/kanadkapil/ReactProjects" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">React Projects </a></h3></li>
+  <li><h3>⚗️ <a href="https://myblogreact-steel.vercel.app/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Blog App</a></h3></li>
+  <li><h3>⚗️ <a href="https://react-note-card.vercel.app/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Fluid Note App</a></h3></li>
+  <li><h3>⚗️ <a href="https://ipl-2025-bowler-stats.streamlit.app/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">IPL 2025 Bowler Stat (Python, DS)</a></h3></li>
 </ul>
 
 <!-- Socials Section -->
@@ -41,8 +44,8 @@
   <a href="mailto:kanadkapil@gmail.com" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" style="margin-right: 15px; border-radius: 8px;" /></a>
 </div>
 
-<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.github.io/Folio-live" style="color: #52cbd1;">Portfolio</a></h3>
-<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.github.io/Personal-Portfolio-Live/" style="color: #52cbd1;">Portfolio (NEW⭐)</a></h3>
+<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.vercel.app/" style="color: #52cbd1;">Portfolio (NEW⭐)</a></h3>
+<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.github.io/Personal-Portfolio-Live/" style="color: #52cbd1;">Portfolio </a></h3>
 
 
 <!-- Tech Stack -->
