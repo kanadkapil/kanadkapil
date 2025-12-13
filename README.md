@@ -25,14 +25,17 @@
 </ul>
 
 <h3 style="color: #1e40af;">Visit my Projects:</h3>
-<ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
-  <li><h3>😎 <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">MorseCode App</a></h3></li>
-  <li><h3>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Terminal App (In Progress)</a></h3></li>
-  <li><h3>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Compiled Works (Live)</a></h3></li>
-  <li><h3>⚗️ <a href="https://github.com/kanadkapil/ReactProjects" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">React Projects </a></h3></li>
-  <li><h3>⚗️ <a href="https://myblogreact-steel.vercel.app/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Blog App</a></h3></li>
-  <li><h3>⚗️ <a href="https://react-note-card.vercel.app/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Fluid Note App</a></h3></li>
-  <li><h3>⚗️ <a href="https://ipl-2025-bowler-stats.streamlit.app/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">IPL 2025 Bowler Stat (Python, DS)</a></h3></li>
+  <h3>Visit my Projects:</h3>
+  <ul>
+    <li>😎 <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank">MorseCode App</a></li>
+    <li>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank">Terminal App (In Progress)</a></li>
+    <li>👨‍⚕️ <a href="https://kanadkapil.github.io/Web-Works-Live" target="_blank">Compiled Works (Live)</a></li>
+    <li>⚗️ <a href="https://github.com/kanadkapil/ReactProjects" target="_blank">React Projects</a></li>
+    <li>⚗️ <a href="https://myblogreact-steel.vercel.app/" target="_blank">Blog App</a></li>
+    <li>⚗️ <a href="https://react-note-card.vercel.app/" target="_blank">Fluid Note App</a></li>
+    <li>⚗️ <a href="https://ipl-2025-bowler-stats.streamlit.app/" target="_blank">IPL 2025 Bowler Stat</a></li>
+    <li>⚗️ <a href="https://github.com/kanadkapil/AimTrainer" target="_blank">AimTrainer</a></li>
+  </ul>
 </ul>
 
 <!-- Socials Section -->
