@@ -118,7 +118,11 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="60" alt="CSS3" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=daisyui" height="60" alt="DaisyUI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React.js" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="60" alt="Streamlit" />
 </div>
+
 
 <h3>Backend:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
@@ -140,7 +144,6 @@
 
 <h3>Frameworks & Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
-  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jQuery" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="Apache" />
