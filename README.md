@@ -28,7 +28,6 @@
 
 <ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
 
-<br>
 <hr>
   <li>
     <h3>🎓 
@@ -38,7 +37,6 @@
     </h3>
   </li>
 <hr>
-  <br>
   
   <li>
     <h3>😎 
