@@ -28,6 +28,8 @@
 
 <ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
 
+<br>
+<hr>
   <li>
     <h3>🎓 
       <a href="https://eda-viz-protein-sequence-analysis.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -35,6 +37,8 @@
       </a>
     </h3>
   </li>
+<hr>
+  <br>
   
   <li>
     <h3>😎 
