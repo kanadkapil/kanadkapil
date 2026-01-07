@@ -27,6 +27,15 @@
 <h3 style="color: #1e40af;">Visit my Projects:</h3>
 
 <ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
+
+  <li>
+    <h3>🎓 
+      *<a href="https://eda-viz-protein-sequence-analysis.vercel.app/" target="_blank" rel="noopener noreferrer">
+        Capstone Project
+      </a>*
+    </h3>
+  </li>
+  
   <li>
     <h3>😎 
       <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer">
