@@ -30,9 +30,9 @@
 
   <li>
     <h3>🎓 
-      *<a href="https://eda-viz-protein-sequence-analysis.vercel.app/" target="_blank" rel="noopener noreferrer">
-        Capstone Project
-      </a>*
+      <a href="https://eda-viz-protein-sequence-analysis.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <b><i>Capstone Project</i></b>
+      </a>
     </h3>
   </li>
   
