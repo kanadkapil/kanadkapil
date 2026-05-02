@@ -106,8 +106,8 @@
 </ul>
 
 <!-- Socials Section -->
-<h2 style="color: #1e40af;">🌐🫂 Socials:</h2>
-<div align="left" style="margin-bottom: 40px;">
+<h2 style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">🌐🫂 Socials:</h2>
+<div align="center" style="margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/kanadkapil/" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin-right: 15px; border-radius: 8px;" /></a>
   <a href="https://discord.com/users/anushtup" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" style="margin-right: 15px; border-radius: 8px;" /></a>
   <a href="https://www.youtube.com/@anush_tup" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" style="margin-right: 15px; border-radius: 8px;" /></a>
