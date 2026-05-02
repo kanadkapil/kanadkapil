@@ -106,12 +106,32 @@
 </ul>
 
 <!-- Socials Section -->
-<h2 style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">🌐🫂 Socials:</h2>
-<div align="center" style="margin-bottom: 40px;">
-  <a href="https://www.linkedin.com/in/kanadkapil/" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin-right: 15px; border-radius: 8px;" /></a>
-  <a href="https://discord.com/users/anushtup" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" style="margin-right: 15px; border-radius: 8px;" /></a>
-  <a href="https://www.youtube.com/@anush_tup" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" style="margin-right: 15px; border-radius: 8px;" /></a>
-  <a href="mailto:kanadkapil@gmail.com" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" style="margin-right: 15px; border-radius: 8px;" /></a>
+<h2 style="margin-bottom: 20px;">
+  🌐🫂 Socials:
+</h2>
+
+<div align="center" style="margin-bottom: 40px; display: flex; justify-content: center; gap: 15px;">
+
+  <a href="https://www.linkedin.com/in/kanadkapil/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="LinkedIn" style="border-radius: 8px;" />
+  </a>
+
+  <a href="https://discord.com/users/anushtup">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+         width="52" height="40" alt="Discord" style="border-radius: 8px;" />
+  </a>
+
+  <a href="https://www.youtube.com/@anush_tup">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+         width="52" height="40" alt="YouTube" style="border-radius: 8px;" />
+  </a>
+
+  <a href="mailto:kanadkapil@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Gmail" style="border-radius: 8px;" />
+  </a>
+
 </div>
 
 <h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil-portfolio.vercel.app/" style="color: #52cbd1;">Portfolio </a></h3>
