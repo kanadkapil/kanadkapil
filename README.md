@@ -114,9 +114,8 @@
   <a href="mailto:kanadkapil@gmail.com" target=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" style="margin-right: 15px; border-radius: 8px;" /></a>
 </div>
 
-<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.vercel.app/" style="color: #52cbd1;">Portfolio (NEW⭐)</a></h3>
-<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.github.io/Personal-Portfolio-Live/" style="color: #52cbd1;">Portfolio </a></h3>
-
+<h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil-portfolio.vercel.app/" style="color: #52cbd1;">Portfolio </a></h3>
+<!-- <h3 style="color: #1e40af;">👨‍⚕️ <a href="https://kanadkapil.github.io/Personal-Portfolio-Live/" style="color: #52cbd1;">Portfolio </a></h3> -->
 
 <!-- Tech Stack -->
 <h1 style="font-size: 2.5rem; color: #1e40af;">💻 Tech Stack</h1>
